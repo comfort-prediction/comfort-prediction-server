@@ -1,1 +1,3 @@
 rootProject.name = 'comfort_prediction_server'
+
+include ":server"
